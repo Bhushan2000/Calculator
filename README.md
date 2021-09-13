@@ -1,5 +1,5 @@
 # Calculator
-Perform Basic maths operations like Addition, Subtraction, Multiplication,Division,,Modulus
+Perform Basic maths operations like Addition, Subtraction, Multiplication,Division,Modulus \n
 Screenshots:
  
 <div align="center">
